@@ -1,1 +1,1 @@
-# Murr.ga Minimalistic Android Webview App
+# Murr.ga a Minimalistic Android Webview App
